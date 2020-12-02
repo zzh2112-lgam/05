@@ -1,0 +1,18 @@
+.box1 {
+  display: inline-block;
+  border: 1px solid blue;
+  background: snow;
+  width: 100px;
+  height: 100px;
+}
+
+.box2 {
+  display: inline-block;
+  border: 3px dashed yellow;
+  background: tan;
+  width: 300px;
+  height: 300px;
+}
+span {
+  display: inline;
+}
